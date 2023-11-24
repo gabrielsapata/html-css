@@ -1,0 +1,90 @@
+@font-face {
+    font-family: idroid;
+    src: url(fontes/idroid.otf);
+}
+
+body{
+    background-color: rgb(0, 255, 157);
+    
+}
+
+*{
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    position: relative;
+
+}
+
+#textop{
+    background-color: rgb(22, 78, 17);
+    height: 170px;
+
+}
+
+#titulo{
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#textot{
+    color: white;
+    text-align: center;
+    margin-top: 45px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+nav li{
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 5px;
+    
+}
+
+.resto{
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+    height: 2500px;
+
+}
+
+.HISTORIA{
+    font-family: idroid;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(27, 88, 27);
+}
+
+.paragrafo{
+    margin: 20px;
+    text-align: justify;
+    text-indent: 40px;
+}
+
+
+#verde{
+    margin-right: 500px;
+    margin-left: 500px;
+    background-color: rgb(255, 0, 0);
+    height: 500px;
+    margin-top: -900px;
+}
+
+.pp{
+    width: 80%;
+    margin-left: 25px;
+}
+
+#ss{
+    margin: auto;
+}
